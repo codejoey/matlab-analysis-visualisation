@@ -1,0 +1,1 @@
+tf=isfield(beam,'length')
